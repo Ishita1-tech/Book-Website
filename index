@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New & Rare Roses</title>
+</head>
+
+<style> 
+
+    /* General Page Styles */
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f4f1e1;
+    color: #3e3a3a;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #6f4f1e;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', serif;
+}
+
+header h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+    font-size: 18px;
+    margin: 0 15px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-color: #4b2e1d;
+}
+
+main {
+    padding: 40px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+h2 {
+    font-family: 'Georgia', serif;
+    color: #6f4f1e;
+    font-size: 28px;
+    margin-top: 40px;
+}
+
+ul {
+    line-height: 1.8;
+    margin-left: 20px;
+}
+
+ul li {
+    font-size: 18px;
+}
+
+em {
+    font-style: italic;
+    color: #6f4f1e;
+}
+.book-details img {
+    width: 100%;
+    height: 250px;
+    max-height: 400px; /* Set a max height for the book image */
+    object-fit: contain; /* Ensures the whole image is visible */
+    transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.book-details img:hover {
+    transform: scale(1.05); /* Slightly zoom the image on hover */
+    filter: brightness(0.9); /* Darken the image on hover */
+}
+
+
+footer {
+    background-color: #6f4f1e;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Times New Roman', serif;
+}
+
+
+footer p {
+    margin: 0;
+    font-size: 16px;
+}
+
+</style>
+<body>
+    <header>
+        <h1>New & Rare Roses</h1>
+        <nav>
+            <a href="C:\Users\ishit\OneDrive\Documents\Vintage BK\index.html">Home</a>
+            <a href="C:\Users\ishit\OneDrive\Documents\Vintage BK\library1.html">Books</a>
+        </nav>
+    </header>
+    <main>
+        <section class="book-details">
+            <img src="C:\Users\ishit\OneDrive\Documents\Vintage BK\images\books\vintage38.jpg" alt="Book 38">
+            <h2>Summary</h2>
+            <p><strong>New & Rare Roses</strong> by Jacob Schultz is an evocative narrative that explores themes of beauty, growth, and the fleeting nature of life. The book takes place in a unique garden of rare and exotic roses, where each flower represents a different aspect of the human experience. Through lyrical prose, Schultz invites readers into a world where the natural and emotional landscapes intertwine.</p>
+
+            <h2>About the Author</h2>
+            <p>Jacob Schultz is an acclaimed writer known for his ability to blend nature with human emotion. His work often explores the delicate balance between the external world and the internal journey. With <em>New & Rare Roses</em>, Schultz continues his exploration of life's complexities, providing readers with a deeply personal, yet universally relatable story.</p>
+
+            <h2>Key Themes</h2>
+            <ul>
+                <li><strong>Transformation:</strong> The garden and its rare roses serve as metaphors for personal growth and change, highlighting the transformative nature of life.</li>
+                <li><strong>Love and Loss:</strong> The protagonist's relationship with the garden symbolizes the delicate balance between love and the inevitable loss that comes with time.</li>
+                <li><strong>Nature's Beauty:</strong> The novel is filled with rich descriptions of the garden, making nature itself a central character in the story.</li>
+                <li><strong>Time and Impermanence:</strong> Schultz explores the passage of time through the blooming and wilting of the roses, mirroring the transience of human experiences.</li>
+            </ul>
+
+            <h2>Plot Overview</h2>
+            <p>The protagonist, a young horticulturist, stumbles upon an isolated garden known for its rare collection of roses. Intrigued by their beauty, the character spends months caring for them, learning that each rose holds a story of past love, heartache, and resilience. As the protagonist becomes more deeply connected to the garden, they begin to confront their own personal challenges—facing the complexities of family, identity, and the passage of time.</p>
+
+            <p>Throughout the story, the garden acts as a mirror to the protagonist's inner world. The roses, though fragile, represent moments of beauty that can be fleeting yet transformative. The protagonist discovers that nurturing something beautiful requires vulnerability, and ultimately, letting go.</p>
+
+            <h2>Writing Style</h2>
+            <p>Schultz’s writing is lyrical and introspective, with vivid imagery that captures the essence of the natural world. He often uses detailed descriptions of the garden to reflect the emotional states of the protagonist. His use of magical realism enhances the symbolic nature of the garden, allowing it to transcend its physical form and become an emotional and spiritual landscape.</p>
+
+            <h2>Notable Quotes</h2>
+            <ul>
+                <li><em>"The roses bloom in silence, yet they speak of everything we dare not say."</em></li>
+                <li><em>"In the garden, time does not move forward—it only blooms, fades, and returns again."</em></li>
+                <em>"To love is to plant a seed, and to let go is to watch it grow into something you never expected."</em>
+            </ul>
+
+            <h2>Why You Should Read This Book</h2>
+            <ul>
+                <li>If you enjoy stories that blend nature with human emotions.</li>
+                <li>If you're looking for a book that explores deep themes like love, loss, and transformation.</li>
+                <li>If you appreciate rich, descriptive writing and vivid imagery.</li>
+                <li>If you’re a fan of magical realism that transcends the ordinary.</li>
+            </ul>
+
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Vintage Library</p>
+    </footer>
+</body>
+</html>
